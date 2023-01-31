@@ -21,7 +21,7 @@ def read_file(filepath: str) -> List[Tuple]:
 
 def generate_word_frequency(word_len: int=5, limit: int=1000)-> List[Tuple]:
     # Read Data
-    data = read_file('src/unigram_freq.csv')
+    data = read_file('src/data/unigram_freq.csv')
 
     # Filter Words Length
     data = list(filter(lambda word_freq: len(word_freq[0]) == word_len , data))
