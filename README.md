@@ -43,7 +43,8 @@ To implement the Wordle game, we need to do the following:
 - If the user's guess is correct, print a message and end the game.
 - If the user's guess is incorrect, print a message and let the user try again.
 - The message should tell the user which letters are valid and in the correct position, which letters are valid but in the wrong position, and which letters are invalid (not in the word).
-- If the user has guessed incorrectly 6 times, print a message and end the game.
-- So far we have done steps 1 and 2. We can do step 3 by using the input function. Step 4 can be done by using the == operator. Steps 6 and 7 can be done by using the if - statement. Step 8 can be done by using the for loop. Step 9 can be done by using the while loop.
-
-To make the game colorful, we can use termcolor to print the letters in different colors (Green for correct letters in the correct position, Yellow for correct letters in the wrong position, and Red for incorrect letters). To make the prints easier, we can make them into functions:
+- If the user has guessed incorrectly 6 times, print a message and end the game.<br>
+<br><br>
+So far we have done steps 1 and 2. We can do step 3 by using the input function. Step 4 can be done by using the == operator. Steps 6 and 7 can be done by using the if - statement. Step 8 can be done by using the for loop. Step 9 can be done by using the while loop.<br>
+<br><br>
+To make the game colorful, we can use termcolor to print the letters in different colors (Green for correct letters in the correct position, Yellow for correct letters in the wrong position, and Red for incorrect letters). To make the prints easier, we can make them into functions:<br>
