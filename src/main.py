@@ -27,10 +27,9 @@ def run_wordle():
 
         for w, g in zip(word, guess):
             if w == g:
-                #print(f'TRUE -> {g}')
                 print_succes(g, end='')
+
             elif g in word:
-                #print(f'Warning -> {g}')
                 print_warning(g, end='')
 
             else:
