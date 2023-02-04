@@ -1,6 +1,6 @@
 # Wordle
 
-<img src="https://cdn.vox-cdn.com/thumbor/ck_ZI2110VroIdMEu81i9Nrnr1Q=/0x0:1125x729/1200x628/filters:focal(563x365:564x366)/cdn.vox-cdn.com/uploads/chorus_asset/file/23162108/IMG_3664.jpg" width=550>
+<img src="https://cdn.nerdschalk.com/wp-content/uploads/2022/02/wordle-game-logo.png" width=550>
 
 Wordle is a word game, which recently got very popular and was added to NYT Games website. It is developed by Josh Wardle. You can find the original game here. However, you can only play it once a day.
 
